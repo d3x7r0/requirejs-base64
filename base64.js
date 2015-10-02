@@ -207,7 +207,7 @@ define(['module'], function (module) {
         base64.get = function (url, callback, errback) {
             try {
                 // read binary data
-                var file = fs.readFileSync(url, 'utf8');
+                var file = fs.readFileSync(url);
                 // convert binary data to base64 encoded string
                 callback(new Buffer(file).toString('base64'));
             } catch (e) {
