@@ -1,6 +1,6 @@
 {
     "name": "requirejs-base64-plugin",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "An AMD loader plugin for loading files resources as base64 strings",
     "categories": [
         "Loader plugins"
