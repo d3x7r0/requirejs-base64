@@ -1,0 +1,27 @@
+{
+    "name": "requirejs-base64-plugin",
+    "version": "0.0.1",
+    "description": "An AMD loader plugin for loading files resources as base64 strings",
+    "categories": [
+        "Loader plugins"
+    ],
+    "main": "base64.js",
+    "github": "https://github.com/d3x7r0/requirejs-base64",
+    "bugs": {
+        "web": "https://github.com/d3x7r0/requirejs-base64/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/d3x7r0/requirejs-base64.git"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        },
+        {
+            "type": "BSD New",
+            "url": "http://opensource.org/licenses/BSD-3-Clause"
+        }
+    ]
+}

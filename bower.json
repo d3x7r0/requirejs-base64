@@ -1,0 +1,5 @@
+{
+  "name": "requirejs-base64-plugin",
+  "version": "0.0.1",
+  "main": "base64.js"
+}
